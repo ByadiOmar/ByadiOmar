@@ -6,7 +6,7 @@
 🎧 Vivo di musica rap, cresciuto a colpi di barre di Noyz, Vacca, Fabri Fibra e Babaman.
 
 
-💻 Studente di Informatica all’ITIS Ettore Majorana, in costante allenamento tra codice e creatività.
+💻 Studente di Informatica all’ITIS Ettore Majorana di Grugliasco, in costante apprendimento tra codice e creatività.
 
 
 📈 Determinato a migliorare ogni giorno, sul ring e nella programmazione.
