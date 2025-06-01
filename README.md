@@ -1,5 +1,6 @@
 ## Hey la👋
-#chi sono
+Sono Omar...
+
 
 👊 Appassionato di pugilato nel tempo libero, con la testa sempre concentrata e lo spirito da combattente.
 
