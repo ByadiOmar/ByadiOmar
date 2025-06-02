@@ -1,4 +1,4 @@
-## Hey la👋
+## 🚀 Ambizioso e orientato alla crescita
 Sono Omar...
 
 
