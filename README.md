@@ -1,4 +1,4 @@
-## Omar Byadi, Web Developer e Web Designer  all'itis Ettore Majorana di Grugliasco, Bootstrap, C#, HTML
+## Omar Byadi - Web Developer e Web Designer - all'itis Ettore Majorana di Grugliasco - Bootstrap - C# - HTML
 
 
 👨‍💻 Studente di Informatica all’ITIS Ettore Majorana di Grugliasco, dove ogni giorno approfondisco il mondo del codice tra studio, creatività e voglia di migliorare.
