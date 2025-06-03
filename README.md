@@ -17,10 +17,4 @@
 
 
 
-🔗
-
-Scuola: ITIS Ettore Majorana
-
-Boxe: DMS Team Boxing
-
-Spotify: Il mio Daily Mix
+💻​A livello di esperienza riguardante l'informatica e la programmazione, ho abilità nell'installare sistemi operativi e competenza base nella scrittura di codice 
