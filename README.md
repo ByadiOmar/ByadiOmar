@@ -18,3 +18,21 @@
 
 
 💻 ​A livello di esperienza riguardante l'informatica e la programmazione, ho abilità nell'installare sistemi operativi e competenza base nella scrittura di codice 
+
+
+- C#
+
+
+-HTML
+
+
+-Bootstrap
+
+
+-JavaScript 
+
+
+-WPF
+
+
+-Competenza base nel Diagrammi Di Flusso
