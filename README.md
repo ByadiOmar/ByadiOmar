@@ -23,16 +23,16 @@
 - C#
 
 
--HTML
+- HTML
 
 
--Bootstrap
+- Bootstrap
 
 
--JavaScript 
+- JavaScript 
 
 
--WPF
+- WPF
 
 
--Competenza base nel Diagrammi Di Flusso
+- Competenza base nel Diagrammi Di Flusso
