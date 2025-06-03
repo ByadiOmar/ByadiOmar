@@ -1,24 +1,26 @@
-## 🚀 Ambizioso e orientato alla crescita
-Sono Omar...
+## Omar Byadi, Studente all'itis Ettore Majorana di Grugliasco, Bootstrap, C#, HTML
 
 
-👊 Appassionato di pugilato nel tempo libero, con la testa sempre concentrata e lo spirito da combattente.
-
-
-🎧 Vivo di musica rap, cresciuto a colpi di barre di Noyz, Vacca, Fabri Fibra e Babaman.
-
-
-💻 Studente di Informatica all’ITIS Ettore Majorana di Grugliasco, in costante apprendimento tra codice e creatività.
-
-
-📈 Determinato a migliorare ogni giorno, sul ring e nella programmazione.
+👨‍💻 Studente di Informatica all’ITIS Ettore Majorana di Grugliasco, dove ogni giorno approfondisco il mondo del codice tra studio, creatività e voglia di migliorare.
 
 
 
-Studente al: https://www.itismajo.it/SitePages/Homepage.aspx
+🥊 Appassionato di pugilato nel tempo libero, porto sul ring la stessa concentrazione e determinazione che metto nella programmazione.
 
 
-Pugile alla: https://dmsteamboxing.com
+
+🎧 Vivo di musica rap: sono cresciuto con le rime di Noyz Narcos, Vacca, Fabri Fibra e Babaman — la mia colonna sonora quotidiana che mi motiva a spingermi oltre.
 
 
-Daily Mix di spotify: https://open.spotify.com/playlist/37i9dQZF1E35FudipBwTo2?si=f23b35513e1943ca
+
+📍 Sempre in costante apprendimento, costruisco passo dopo passo il mio futuro tra algoritmi, linguaggi di programmazione e tanta voglia di fare la differenza.
+
+
+
+🔗
+
+Scuola: ITIS Ettore Majorana
+
+Boxe: DMS Team Boxing
+
+Spotify: Il mio Daily Mix
